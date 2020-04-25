@@ -19,6 +19,7 @@ This project was undertaken to build a greater understanding of NLP methods and 
   5.  Generating classification profiles
       - what are the key characteristics of a certain wine region? Can we make experts of novices?
 
+
       
 **Future Work**
 
